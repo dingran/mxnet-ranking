@@ -1,0 +1,5 @@
+matplotlib==3.0.3
+tqdm==4.31.1
+mxnet==1.4.0
+numpy==1.14.6
+scikit_learn==0.21.2
