@@ -4,3 +4,4 @@ venv
 .pyc
 poc/search_log.txt
 *pycache*
+data/
