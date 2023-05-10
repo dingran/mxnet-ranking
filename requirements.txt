@@ -1,6 +1,6 @@
 mxnet==1.9.1
 tqdm==4.31.1
-numpy==1.14.6
+numpy==1.22.0
 matplotlib==3.0.3
 typing==3.6.6
 scikit_learn==0.21.2
