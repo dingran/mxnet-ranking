@@ -1,4 +1,4 @@
-mxnet==1.4.0
+mxnet==1.9.1
 tqdm==4.31.1
 numpy==1.14.6
 matplotlib==3.0.3
